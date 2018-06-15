@@ -1,8 +1,7 @@
-Kotlin JS Hello World Demo
-=======================
+Kotlin-js Watching Variable Demo
+================================
 
-Hello world from kotlin-js.
-
+Variable can be watched, and notify changes when its value changes.
 
 Run:
 
@@ -11,6 +10,6 @@ Run:
 open index.html
 ```
 
-You will see "Hello, Kotlin!" in console of your browser's developer panel.
+You will see two alerts.
 
 
